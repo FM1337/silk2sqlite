@@ -9,5 +9,6 @@ This is a small application I built for taking the outputted data from [Silk's](
 ## Usage
 To install this application simply do:
 ``go install github.com/FM1337/silk2sqlite``
+
 after that to use it, just use the following command:
 ``./silk2sqlite database.db rwcut-output.txt``
