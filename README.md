@@ -8,4 +8,5 @@ This is a small application I built for taking the outputted data from [Silk's](
 
 ## Usage
 An example of how to use silk2sqlite is as followed:
+
 ``./silk2sqlite database.db rwcut-output.txt``
